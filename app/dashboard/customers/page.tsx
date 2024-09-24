@@ -1,3 +1,3 @@
 export default function Customer() {
-    <p>Customers Page</p>
+    return(<p>Customers Page</p>)
 }
